@@ -10,7 +10,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-- 🎓 Computer Science student (Currently studying at **[ANNA UNIVERSITY[CEG-GUINDY]**)
+- 🎓 PG: **M.E-CSE[DSCS]** (Currently studying at **[ANNA UNIVERSITY[CEG-GUINDY]**)
 - 🎓 UG: **[ANNAMALAI UNIVERSITY]** — Passed out **[2025]**
 - 📧 Email: pranavvarshan26112003@gmail.com
 - 📚 Strong in **Machine Learning / AI Basics**
@@ -62,7 +62,7 @@
 ## 👥 Profile Visitors
 
 <p align="center">
-  <a href="https://github.com/PranavVarshan" target="_blank">
+  <a href="https://github.com/Pranavvarshan08" target="_blank">
     <img src="https://badges.pufler.dev/visits/PranavVarshan/PranavVarshan?color=blue&logo=github" alt="Profile Visitors"/>
   </a>
 </p>
