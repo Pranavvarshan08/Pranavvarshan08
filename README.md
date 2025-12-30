@@ -1,4 +1,7 @@
-<h1 align="center">🚀 Hello! I’m ATP</h1>
+<h1 align="center">🚀 Hello! I’m ATP</h1><h1 align="center">
+  <img src=" https://github.com/Pranavvarshan08/Pranavvarshan08/blob/main/textanim.gif"alt="Typing Hello ATP" />
+</h1>
+
 <h3 align="center">Computer Science Student | Data Science | Cyber Security | ML Enthusiast</h3>
 
 <p align="center">
