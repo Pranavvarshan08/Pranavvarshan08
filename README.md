@@ -36,42 +36,6 @@
   </a>
 </p>
 
-
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-<p>
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40"/>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40"/>
-</p>
-
-- C / C++
-- Java
-- Python
-
-### 🗄️ Databases
-<p>
-  <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" width="40"/>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="40"/>
-</p>
-
-- MySQL
-- MongoDB
-- XML
-
----
-## 👥 Profile Visitors
-
-<p align="center">
-  <b>Thanks for stopping by!</b><br>
-  <a href="https://github.com/Pranavvarshan08" target="_blank">
-    <img src="https://badges.pufler.dev/visits/Pranavvarshan08?color=blue&logo=github" alt="Profile Visitors"/>
-  </a>
-</p>
-
----
 ## 🧩 Current Focus
 
 <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300"/>
