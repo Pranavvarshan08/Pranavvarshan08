@@ -10,8 +10,8 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-- 🎓 PG: **M.E-CSE[DSCS]** (Currently studying at **[ANNA UNIVERSITY[CEG-GUINDY]**)
-- 🎓 UG: **[ANNAMALAI UNIVERSITY]** — Passed out **[2025]**
+- 🎓 PG: **M.E-CSE[DSCS]** (Currently studying at **[Anna University[CEG-GUINDY]**)
+- 🎓 UG: **[Annamalai University]** — Passed out **[2025]**
 - 📧 Email: pranavvarshan26112003@gmail.com
 - 📚 Strong in **Machine Learning / AI Basics**
 - 🗄️ Interested in **Cybersecurity & Ethical Hacking**
@@ -62,8 +62,9 @@
 ## 👥 Profile Visitors
 
 <p align="center">
+  <b>Thanks for stopping by!</b><br>
   <a href="https://github.com/Pranavvarshan08" target="_blank">
-    <img src="https://badges.pufler.dev/visits/PranavVarshan/PranavVarshan?color=blue&logo=github" alt="Profile Visitors"/>
+    <img src="https://badges.pufler.dev/visits/Pranavvarshan08?color=blue&logo=github" alt="Profile Visitors"/>
   </a>
 </p>
 
