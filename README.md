@@ -1,4 +1,4 @@
-<h1 align="center">## 👋Hello! ## Welcome to My GitHub🚀, I'm ATP</h1>
+<h1 align="center">🚀 Hello! I’m ATP</h1>
 <h3 align="center">Computer Science Student | Data Science | Cyber Security | ML Enthusiast</h3>
 
 <p align="center">
