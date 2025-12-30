@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ATP</h1>
+<h1 align="center">## 👋Hello! ## Welcome to My GitHub🚀, I'm ATP</h1>
 <h3 align="center">Computer Science Student | Data Science | Cyber Security | ML Enthusiast</h3>
 
 <p align="center">
@@ -10,8 +10,8 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-- 🎓 Computer Science student  
-- 📍 Based in: Chennai, India
+- 🎓 Computer Science student (Currently studying at **[ANNA UNIVERSITY[CEG-GUINDY]**)
+- 🎓 UG: **[ANNAMALAI UNIVERSITY]** — Passed out **[2025]**
 - 📧 Email: pranavvarshan26112003@gmail.com
 - 📚 Strong in **Machine Learning / AI Basics**
 - 🗄️ Interested in **Cybersecurity & Ethical Hacking**
@@ -24,7 +24,7 @@
     <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="40"/>
   </a>
   &nbsp;
-  <a href="https:www.linkedin.com/in/a-t-pranavvarshan-127405247">
+  <a href="https://www.linkedin.com/in/pranavvarshan08">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
   </a>
   &nbsp;
@@ -59,15 +59,13 @@
 - XML
 
 ---
-
-## 📈 GitHub Stats
+## 👥 Profile Visitors
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranavVarshan&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavVarshan&theme=tokyonight" width="48%"/>
+  <a href="https://github.com/PranavVarshan" target="_blank">
+    <img src="https://badges.pufler.dev/visits/PranavVarshan/PranavVarshan?color=blue&logo=github" alt="Profile Visitors"/>
+  </a>
 </p>
-
----
 
 ---
 ## 🧩 Current Focus
