@@ -69,21 +69,16 @@
 
 ---
 
-## 🔥 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavVarshan&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 ## 🧩 Current Focus
 
 <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300"/>
 
-- ✔️ Advanced Data Structures (Heaps, Graphs, NP-Completeness)
-- ✔️ Database Query Processing
-- ✔️ Recommender Systems & Attacks
-- ✔️ Competitive Programming
+- 🗄️ Exploring **Cybersecurity & Ethical Hacking**
+- 🤖 Learning **Secure AI, Ethical Hacking, and Cybersecurity Analytics**
+- 🔒 Practicing **Network Security, Vulnerability Assessment, and Penetration Testing**
+- 🧠 Building knowledge in **Cryptography & Security Protocols**
+- ✔️ **Competitive Programming**
 
 ---
 
