@@ -15,7 +15,7 @@
 
 - 🎓 PG: **M.E-CSE[DSCS]** (Currently studying at **[Anna University[CEG-GUINDY]**)
 - 🎓 UG: **[Annamalai University]** — Passed out **[2025]**
-- 📧 Email: pranavvarshan26112003@gmail.com
+- 📧 Email: pranavvarshan008@gmail.com
 - 🗄️ Interested in **Cybersecurity & Ethical Hacking**
 - 🤖 Learning **Secure AI, Ethical Hacking, and Cybersecurity Analytics**
 - 🧠 Love explaining concepts in a **simple & practical way**
