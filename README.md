@@ -1,6 +1,14 @@
 <div align="center">
 
-# Pranav Varshan
+# 
+<div align="center">
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=300&height=60&lines=ATP" alt="ATP" />
+
+</div>
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=%3E+git+commit+-m+%22patching+myself%22;%3E+exploring+cybersecurity;%3E+building+%26+learning" alt="Typing intro" />
 
@@ -41,7 +49,7 @@
 
 ---
 
-## `current_focus()`
+## `current_focus:`
 
 ```text
 [+] Cybersecurity & Ethical Hacking
@@ -56,7 +64,7 @@
 
 ---
 
-## `tech_stack`
+## `tech_stack:`
 
 **Languages**
 <br/>
@@ -83,7 +91,7 @@
 
 ---
 
-## `connect()`
+## `connect:`
 
 <div align="center">
 
@@ -107,16 +115,14 @@
 
 ---
 
-## `GitHub Analytics`
+## `GitHub Analytics:`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pranavvarshan08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavvarshan08&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavvarshan08&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="60%"/>
 </div>
 
----
 
-## `Contribution Grid`
+## `Contribution Grid:`
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Pranavvarshan08/Pranavvarshan08/output/contribution-grid.svg" width="100%" />
