@@ -34,32 +34,42 @@
 
 <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF" />
 <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00D9FF" />
 <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00D9FF" />
 <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00D9FF" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=flat-square&logo=hackthebox&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Ethical%20Hacking-0D1117?style=flat-square&logo=kalilinux&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Networking-0D1117?style=flat-square&logo=cisco&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Data%20Science-0D1117?style=flat-square&logo=pandas&logoColor=00D9FF" />
 <img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=flat-square&logo=scikitlearn&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Deep%20Learning-0D1117?style=flat-square&logo=tensorflow&logoColor=00D9FF" />
 
 </div>
 
 ---
+## 🧑‍💻 About Me
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+-  PG: **M.E-CSE[DSCS]** — Currently studying at **Anna University (CEG-Guindy)**
+-  UG: **Annamalai University** — Passed out **2025**
+-  Email: pranavvarshan008@gmail.com
+-  Interested in **Cybersecurity and AI/ML**
+- Learning the deeper concepts of **Deep Learning, Machine Learning, and Cybersecurity**
+-  Enjoy breaking down complex technical topics into **simple, practical explanations**
+-  Preparing for **exams, coding rounds, and technical interviews**
+ 
 ## `current_focus:`
 
 ```text
 [+] Cybersecurity & Ethical Hacking
-[+] Network Security
-[+] Vulnerability Assessment
+[+] Network Security & Vulnerability Assessment
 [+] Penetration Testing
-[+] Cryptography & Security Protocols
-[+] Secure AI
+[+] Security Tools — Nmap, Wireshark, Burp Suite, Metasploit
+[+] Secure AI & ML Systems
 [+] Cybersecurity Analytics
 [+] Competitive Programming
+
 ```
 
 ---
@@ -69,25 +79,52 @@
 **Languages**
 <br/>
 <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=00D9FF" />
 <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/R-0D1117?style=flat-square&logo=r&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Bash%2FShell-0D1117?style=flat-square&logo=gnubash&logoColor=00D9FF" />
+
+**Databases**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/NoSQL-0D1117?style=flat-square&logo=mongodb&logoColor=00D9FF" />
 
 **Security**
 <br/>
 <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=flat-square&logo=hackthebox&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Ethical%20Hacking-0D1117?style=flat-square&logo=kalilinux&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Network%20Security-0D1117?style=flat-square&logo=cisco&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Kali%20Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Ubuntu-0D1117?style=flat-square&logo=ubuntu&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Metasploit-0D1117?style=flat-square&logoColor=00D9FF" />
 
-**Data & AI**
+**AI / ML**
 <br/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=flat-square&logo=scikitlearn&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Data%20Science-0D1117?style=flat-square&logo=pandas&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Keras-0D1117?style=flat-square&logo=keras&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00D9FF" />
+
+**Cloud & DevOps**
+<br/>
+<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Google%20Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" />
+
+**Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00D9FF" />
 
 **Tools**
 <br/>
 <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00D9FF" />
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00D9FF" />
 <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-0D1117?style=flat-square&logo=jupyter&logoColor=00D9FF" />
 
 ---
 
@@ -127,7 +164,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Pranavvarshan08/Pranavvarshan08/output/contribution-grid.svg" width="100%" />
 
-<i>Consistent steps build greater versions 🚀</i>
+<i> Every setback is reconnaissance. Every comeback is victory..📈 </i>
 </div>
 ---
 
