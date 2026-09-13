@@ -18,13 +18,12 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate contribution grid
+      - name: Generate blue contribution grid
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/contribution-grid.svg
-            dist/contribution-grid-dark.svg?palette=github-dark
+            dist/contribution-grid.svg?color_snake=#00D9FF&color_dots=#0D1117,#123B5D,#176B9E,#00A8D6,#00D9FF
 
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
