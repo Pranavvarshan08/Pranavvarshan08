@@ -119,7 +119,7 @@
 ## `Contribution Grid`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranavvarshan08&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true" />
+<img src=["https://github-readme-activity-graph.vercel.app/graph?username=Pranavvarshan08&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true"](https://github.com/Pranavvarshan08/Pranavvarshan08/blob/output/contribution-grid.svg) />
 
 <i>Consistent steps build greater versions 🚀</i>
 </div>
