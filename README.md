@@ -150,14 +150,13 @@
 
 </div>
 
----
-
-## `GitHub Analytics:`
-
+## mission:
+ 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavvarshan08&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="60%"/>
-</div>
 
+<b></b> <code>Learn → Build → Break → Analyze → Secure</code>
+
+</div>
 
 ## `Contribution Grid:`
 
